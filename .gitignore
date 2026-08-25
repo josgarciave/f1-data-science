@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Caché de FastF1 y archivos de datos pesados
+data/cache/
+*.csv
+*.parquet

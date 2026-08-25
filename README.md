@@ -1,2 +1,2 @@
 # f1-data-science
-Ciencia de datos y de Formula 1 usando Python y FastF1.
+Ciencia de datos y Formula 1 usando Python y FastF1.
